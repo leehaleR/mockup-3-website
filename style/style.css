@@ -530,7 +530,7 @@ footer .CP {
   height: 100vh;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  background-image: url(../assets/img/Untitled-1.png);
+  background-image: url(/assets/img/Untitled-1.png);
   background-size: contain;
   background-repeat: no-repeat;
   position: relative;
@@ -649,7 +649,7 @@ footer .CP {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   width: 100%;
-  background-image: url(../assets/img/bg-admin.png);
+  background-image: url(/assets/img/bg-admin.png);
   background-size: contain;
   background-repeat: no-repeat;
 }
